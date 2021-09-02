@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/catalogo_fabislacos/static/css/main.1e1601cd.chunk.css",
+    "main.js": "/catalogo_fabislacos/static/js/main.fa30c781.chunk.js",
+    "main.js.map": "/catalogo_fabislacos/static/js/main.fa30c781.chunk.js.map",
+    "runtime-main.js": "/catalogo_fabislacos/static/js/runtime-main.583a00b4.js",
+    "runtime-main.js.map": "/catalogo_fabislacos/static/js/runtime-main.583a00b4.js.map",
+    "static/js/2.6399a8fa.chunk.js": "/catalogo_fabislacos/static/js/2.6399a8fa.chunk.js",
+    "static/js/2.6399a8fa.chunk.js.map": "/catalogo_fabislacos/static/js/2.6399a8fa.chunk.js.map",
+    "index.html": "/catalogo_fabislacos/index.html",
+    "static/css/main.1e1601cd.chunk.css.map": "/catalogo_fabislacos/static/css/main.1e1601cd.chunk.css.map",
+    "static/js/2.6399a8fa.chunk.js.LICENSE.txt": "/catalogo_fabislacos/static/js/2.6399a8fa.chunk.js.LICENSE.txt",
+    "static/media/uwn.3b97a0cc.png": "/catalogo_fabislacos/static/media/uwn.3b97a0cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583a00b4.js",
+    "static/js/2.6399a8fa.chunk.js",
+    "static/css/main.1e1601cd.chunk.css",
+    "static/js/main.fa30c781.chunk.js"
+  ]
+}
